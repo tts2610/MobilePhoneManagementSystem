@@ -1,2 +1,3 @@
 # Mobile Phone Management System
-Final Project Semester 2
+Enterprise Resource Planning System for a Mobile Phone company.
+Applied knowledge of Java Swing, stored database using SQL Server.
